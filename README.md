@@ -1,10 +1,9 @@
 <div align="center">
 
-### Olá eu sou o arthur...👋
  ![](https://komarev.com/ghpvc/?username=johnnyalves64&color=blue&style=flat&label=Visitas+ao+perfil)
 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnnyalves64&theme=monokai)
- <!--<buttom>Commit Detalhado</buttom>-->
+
 </div>
 <div align="center">
   <a href="https://github.com/arthurk88">
