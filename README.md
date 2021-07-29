@@ -3,7 +3,8 @@
 
 
 ![](https://komarev.com/ghpvc/?username=johnnyalves64&color=blue&style=flat&label=Visitas+ao+perfil)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyalves64&theme=dark&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyalves64&theme=algolia&show_icons=true)
 <!--
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnnyalves64&theme=algolia)
