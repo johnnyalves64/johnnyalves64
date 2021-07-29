@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyalves64&langs_count=8)](https://github.com/johnnyalves64/github-readme-stats)
 
-
+<!--
 <div>
   <a href="https://github.com/johnnyalves64">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnyalves64&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -15,7 +15,7 @@
  
 
 	
-<!--
+
 <div>
   <h2>Contatos</h2>
 <a href=""> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
