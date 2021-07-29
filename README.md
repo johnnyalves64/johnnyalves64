@@ -18,13 +18,13 @@ Here are some ideas to get you started:
  
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnnyalves64&theme=monokai)
  <!--<buttom>Commit Detalhado</buttom>-->
-
 <div>
-<a href="https://github.com/johnnyalves64">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnyalves64&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyalves64&layout=compact&langs_count=7&theme=react"/>
+  <a href="https://github.com/johnnyalves64">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnyalves64&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyalves64&layout=compact&langs_count=7&theme=react"/>
 </div>
-
+	
+<!--
 <div>
   <h2>Contatos</h2>
 <a href=""> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 </div>
 	
 <HR>
-
+-->
