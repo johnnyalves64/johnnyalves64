@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnnyalves64&theme=monokai)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyalves64&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyalves64&langs_count=8)](https://github.com/johnnyalves64/github-readme-stats)
 
 
 <div>
